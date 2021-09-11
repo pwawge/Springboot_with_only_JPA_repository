@@ -1,0 +1,6 @@
+com/example/dto/BooksDto.class
+com/example/service/BooksInformationService.class
+com/example/SpringbootJpaTestEnvApplication.class
+com/example/model/BooksModel.class
+com/example/controller/BooksInformationController.class
+com/example/service/CustomBookInformationService.class

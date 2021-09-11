@@ -1,0 +1,6 @@
+/Users/pwawge/Documents/java-codility-test/Springboot_with_only_JPA_repository/src/main/java/com/example/model/BooksModel.java
+/Users/pwawge/Documents/java-codility-test/Springboot_with_only_JPA_repository/src/main/java/com/example/dto/BooksDto.java
+/Users/pwawge/Documents/java-codility-test/Springboot_with_only_JPA_repository/src/main/java/com/example/controller/BooksInformationController.java
+/Users/pwawge/Documents/java-codility-test/Springboot_with_only_JPA_repository/src/main/java/com/example/service/CustomBookInformationService.java
+/Users/pwawge/Documents/java-codility-test/Springboot_with_only_JPA_repository/src/main/java/com/example/service/BooksInformationService.java
+/Users/pwawge/Documents/java-codility-test/Springboot_with_only_JPA_repository/src/main/java/com/example/SpringbootJpaTestEnvApplication.java
